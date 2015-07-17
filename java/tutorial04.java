@@ -1,8 +1,3 @@
-// 1. http://stackoverflow.com/questions/6228008/decoding-audio-via-android-using-ffmpeg
-// 2. http://stackoverflow.com/questions/19704351/how-to-play-mp3-using-ffmpeg
-
-// todo. 6 channnel (5.1) -> 2 channel resampling in ffmpeg
-
 
 package com.example.jhjh.ndktest;
 
